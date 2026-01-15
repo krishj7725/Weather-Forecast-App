@@ -4,7 +4,7 @@ A beautiful, modern weather application built with Flutter that provides real-ti
 
 <p align="center">
   <img src="screenshots/detail.png" width="300" alt="Weather Detail Screen" />
-</p>
+ </p>
 
 ## ✨ Features
 
