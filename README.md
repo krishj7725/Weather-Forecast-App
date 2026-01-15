@@ -66,3 +66,19 @@ This project uses **OpenWeatherMap API**. To run this locally, you need your own
     ```bash
     flutter run
     ```
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📫 Connect with Me
+
+* **LinkedIn:** [Krish Jain](https://www.linkedin.com/in/krishj7725/)
+* **GitHub:** [krishj7725](https://github.com/krishj7725)
+* **Email:** [Krish Jain](krishjain7725@gmail.com)
