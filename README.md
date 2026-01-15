@@ -3,8 +3,8 @@
 A beautiful, modern weather application built with Flutter that provides real-time weather data and hourly forecasts. Features dynamic day/night themes, city search with autocomplete, and local data persistence.
 
 <p align="center">
-  <img src="screenshots/detail.png" width="300" alt="Weather Detail Screen" />
- </p>
+  <img src="Screenshot/details.png" width="300" alt="Weather Detail Screen" />
+</p>
 
 ## ✨ Features
 
@@ -19,7 +19,7 @@ A beautiful, modern weather application built with Flutter that provides real-ti
 
 | Smart Search | Saved Cities | Weather Details |
 |:---:|:---:|:---:|
-| <img src="screenshots/search.png" width="250" alt="Search Screen"> | <img src="screenshots/list.png" width="250" alt="Saved Cities List"> | <img src="screenshots/detail.png" width="250" alt="Detail Screen"> |
+| <img src="Screenshot/search.png" width="250" alt="Search Screen"> | <img src="Screenshot/list.png" width="250" alt="Saved Cities List"> | <img src="Screenshot/details.png" width="250" alt="Detail Screen"> |
 | *Autocomplete suggestions* | *Swipe-to-delete saved list* | *Dynamic gradient UI* |
 
 ## 🛠️ Tech Stack
@@ -66,13 +66,3 @@ This project uses **OpenWeatherMap API**. To run this locally, you need your own
     ```bash
     flutter run
     ```
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
