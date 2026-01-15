@@ -81,4 +81,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 * **LinkedIn:** [Krish Jain](https://www.linkedin.com/in/krishj7725/)
 * **GitHub:** [krishj7725](https://github.com/krishj7725)
-* **Email:** [Krish Jain](krishjain7725@gmail.com)
+* **Email:** [krishjain7725@gmail.com](krishjain7725@gmail.com)
